@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "./static/css/main.c66fc96a.chunk.css",
+    "main.js": "./static/js/main.ea58ca41.chunk.js",
+    "main.js.map": "./static/js/main.ea58ca41.chunk.js.map",
+    "runtime-main.js": "./static/js/runtime-main.330dba63.js",
+    "runtime-main.js.map": "./static/js/runtime-main.330dba63.js.map",
+    "static/css/2.a1be631c.chunk.css": "./static/css/2.a1be631c.chunk.css",
+    "static/js/2.a7030517.chunk.js": "./static/js/2.a7030517.chunk.js",
+    "static/js/2.a7030517.chunk.js.map": "./static/js/2.a7030517.chunk.js.map",
+    "index.html": "./index.html",
+    "static/css/2.a1be631c.chunk.css.map": "./static/css/2.a1be631c.chunk.css.map",
+    "static/css/main.c66fc96a.chunk.css.map": "./static/css/main.c66fc96a.chunk.css.map",
+    "static/js/2.a7030517.chunk.js.LICENSE.txt": "./static/js/2.a7030517.chunk.js.LICENSE.txt",
+    "static/media/Home.f50b84dc.svg": "./static/media/Home.f50b84dc.svg",
+    "static/media/Logo.c9417692.svg": "./static/media/Logo.c9417692.svg",
+    "static/media/App.scss": "./static/media/Mont-SemiBold.8979d71a.otf",
+    "static/media/cart-icon.9d5d0d40.svg": "./static/media/cart-icon.9d5d0d40.svg",
+    "static/media/close.e54c01ed.svg": "./static/media/close.e54c01ed.svg",
+    "static/media/favourites-icon.e06f6852.svg": "./static/media/favourites-icon.e06f6852.svg",
+    "static/media/search.66a1fd86.svg": "./static/media/search.66a1fd86.svg",
+    "static/media/slick-theme.css": "./static/media/slick.c94f7671.ttf",
+    "static/media/small-arrow.1e52eeff.svg": "./static/media/small-arrow.1e52eeff.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.330dba63.js",
+    "static/css/2.a1be631c.chunk.css",
+    "static/js/2.a7030517.chunk.js",
+    "static/css/main.c66fc96a.chunk.css",
+    "static/js/main.ea58ca41.chunk.js"
+  ]
+}
